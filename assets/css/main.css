@@ -2363,6 +2363,10 @@
 		.icon.style5 {
 			color: #8cc9f0;
 		}
+		
+		.icon.style6 {
+			color: black;
+		}
 
 		@media screen and (max-width: 1680px) {
 
